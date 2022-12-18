@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Welcome to the offical Horizon Autos Website'
 description: null
-image: null
+image: favicon.ico
 author: null
 show_tile: false
 ---
