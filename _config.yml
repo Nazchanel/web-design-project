@@ -3,7 +3,7 @@ title: Horizon Autos
 subtitle: Where the horizon is just the beginning
 email: sales@horizonautos.com
 description: A innovative business<br />that sells state<br /> of the art cars in the DFW Area.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Eshan Iyer, Siri Mandava
 street_address: 1234 Preston Road
