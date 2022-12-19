@@ -2,7 +2,7 @@
 layout: post
 title: Cars
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/car.jpg
 nav-menu: true
 ---
 
