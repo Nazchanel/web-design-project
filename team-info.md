@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: 	
 title: Team Information
-description: Lorem ipsum dolor est
+description: BPA Team Overview
 # image: assets/images/horizon-autos-fulllogo.png
 nav-menu: true
 ---
