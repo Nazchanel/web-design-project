@@ -5,11 +5,13 @@ description: Operating hours
 image: null
 nav-menu: true
 ---
-
- <font size="+2"><b>Monday</b>: 9:00 AM - 7:00 PM <br>
-<b>Tuesday</b>: 9:00 AM - 7:00 PM<br>
-<b>Wednesday</b>: 9:00 AM - 7:00 PM<br>
-<b>Thursday</b>: 9:00 AM - 7:00 PM<br>
-<b>Friday</b>: 9:00 AM - 7:00 PM<br>
-<b>Saturday</b>: 9:00 AM - 6:00 PM<br>
-<b>Sunday</b>: Closed<br></font>
+<p align= "center">
+<font size="+2">
+<b>Monday</b>:<br>9:00 AM - 7:00 PM<br><br>
+<b>Tuesday</b>: <br>9:00 AM - 7:00 PM<br><br>
+<b>Wednesday</b>: <br>9:00 AM - 7:00 PM<br><br>
+<b>Thursday</b>: <br>9:00 AM - 7:00 PM<br><br>
+<b>Friday</b>:<br> 9:00 AM - 7:00 PM<br><br>
+<b>Saturday</b>: <br>9:00 AM - 6:00 PM<br><br>
+<b>Sunday</b>: <br>Closed<br></font>
+</p>

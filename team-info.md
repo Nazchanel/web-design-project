@@ -23,7 +23,7 @@ nav-menu: true
 ---
 
 ## Theme:
-* Car Dealership Site
+* Used Car Lot Site
 
 ---
 
