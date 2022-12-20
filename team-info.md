@@ -1,5 +1,5 @@
 ---
-layout: 	
+layout: post	
 title: Team Information
 description: BPA Team Overview
 # image: assets/images/horizon-autos-fulllogo.png
@@ -8,7 +8,7 @@ nav-menu: true
 
 ---
 ## Chapter Name:
-* *Placeholder*
+* Frisco High School BPA Chapter
 
 --- 
 

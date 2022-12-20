@@ -11,3 +11,4 @@
 * 2002 Honda Civic [https://www.kbb.com/honda/civic/2002/](https://www.kbb.com/honda/civic/2002/)
 * 2006 Toyota Camry [https://www.kbb.com/toyota/camry/2006/](https://www.kbb.com/toyota/camry/2006/)
 * 2019 Audi Q5 [https://www.cars.com/research/audi-q5-2019/](https://www.cars.com/research/audi-q5-2019/)
+* 2018 Mazda 3 [https://www.caranddriver.com/mazda/mazda-3-2018](https://www.caranddriver.com/mazda/mazda-3-2018)
