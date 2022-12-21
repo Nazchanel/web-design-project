@@ -6,9 +6,9 @@ image: null
 nav-menu: true
 ---
 <h2 id="content">About</h2>
-<p>Our used car lot is stocked with a wide variety of makes and models, all at affordable prices. Our team of [professional salesmen are here to help you find the perfect vehicle to fit your needs and budget.
+<p>Our used car lot is stocked with a wide variety of brands and models, all at affordable prices. Our team of professional salesmen are here to help you find the perfect vehicle to fit your needs and budget.
 
-We understand that buying a used car can be stressful, which is why we go above and beyond to ensure that each and every vehicle on our lot is in excellent condition. All of our cars are thoroughly inspected and tested before they go on sale, so you can buy with confidence.
+We understand that buying a used cae can be stressful, which is why we go above and beyond to ensure that each and every vehicle on our lot is in excellent condition. All of our cars are thoroughly inspected and tested before they go on sale, so you can buy with confidence.
 
 In addition to our great selection of used cars, we also offer financing options to help make the car-buying process even easier. Our financing team will work with you to find the best financial solution to suit your individual needs.</p>
 

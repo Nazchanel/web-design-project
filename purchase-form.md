@@ -10,7 +10,7 @@ nav-menu: true
 	.comment {
 		resize: none;
 		height: 200px;
-		width: 590px;
+		width: 450px;
 	}
 </style>
 
