@@ -86,13 +86,13 @@ code {
 }
 </style>
 <h2 id="content">About</h2>
-<p>Our used car lot is stocked with a wide variety of brands and models, all at affordable prices. Our team of professional salesmen are here to help you find the perfect vehicle to fit your needs and budget.
+<p>Our used car lot is stocked with a wide variety of brands and models, all at affordable prices. Our team of professional sales professionals are here to help you find the perfect vehicle to fit your needs and budget.
 
 We understand that buying a used cae can be stressful, which is why we go above and beyond to ensure that each and every vehicle on our lot is in excellent condition. All of our cars are thoroughly inspected and tested before they go on sale, so you can buy with confidence.
 </p>
 
 <p align = "center">
-<a href="purchase-form.html	" class="button special">Purchase your car</a>
+<a href="reserve-form.html	" class="button special">Reserve your car</a>
 </p>
 
 <h2>Our Inventory:</h2>
@@ -198,6 +198,6 @@ We understand that buying a used cae can be stressful, which is why we go above 
 </div>
 
 <p align = "center">
-<a href="purchase-form.html	" class="button special">Purchase your car</a>
+<a href="reserve-form.html	" class="button special">reserve your car</a>
 </p>
 

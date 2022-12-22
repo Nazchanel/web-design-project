@@ -6,7 +6,7 @@ image: /assets/images/logo-with-background.png
 nav-menu: true
 ---
 <p align="center">
-<img src="/assets/images/horizon-autos-fulllogo.png" alt="Flowers in Chania" width="400" 
+<img src="/assets/images/horizon-autos-fulllogo.png" alt="Flowers in Chania" width="500" 
      height="250">
 </p>
 <p align= "center">
