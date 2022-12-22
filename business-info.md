@@ -2,7 +2,7 @@
 layout: post
 title: Hours of Operation
 description: Operating hours
-image: null
+image: /assets/images/clock.png
 nav-menu: true
 ---
 <p align= "center">

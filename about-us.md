@@ -2,12 +2,12 @@
 layout: post
 title: About Us
 description: All About Us
-image: null
+image: /assets/images/logo-with-background.png
 nav-menu: true
 ---
 <p align="center">
-<img src="/assets/images/horizon-autos-fulllogo.png" alt="Flowers in Chania" width="500" 
-     height="300">
+<img src="/assets/images/horizon-autos-fulllogo.png" alt="Flowers in Chania" width="400" 
+     height="250">
 </p>
 <p align= "center">
-At Horizon Autos, we specialize in providing high-quality pre-owned vehicles to our customers. Our team of experienced sales associates is dedicated to helping you find the perfect car, truck, or SUV to fit your needs and budget. We understand that purchasing a car can be daunting, which is why we go above and beyond to ensure that all of our vehicles are thoroughly inspected and fully reconditioned before they hit the lot. With a diverse selection of models and brands to choose from, we are sure you will find the perfect vehicle. So come on down and visit us at Horizon Autos and walk out reserving the car of your dreams!
+Horizon Autos is a second hand car lot located in the heart of Dallas Fort-Worth. We specialize in providing a wide range of high-quality pre-owned vehicles at affordable prices. Our team of experienced sales professionals is dedicated to helping you find the perfect car to fit your needs and budget. Our on-site servicing department ensures that our vehicles are thoroughly inspected and in excellent condition before they hit the market. Visit Horizon Autos today and see why we are the premier destination for used cars in the DFW area.

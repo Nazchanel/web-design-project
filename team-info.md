@@ -34,8 +34,8 @@ nav-menu: true
 ---
 
 ## Team Members:
-* Siri Mandava
 * Eshan Iyer
+* Siri Mandava
 * Asha Sarakinti
 * Kenleigh Hodge
 

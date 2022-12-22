@@ -72,7 +72,7 @@
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.85;
+				opacity: 0.45;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
@@ -109,37 +109,37 @@
 
 			&:nth-child(6n - 5) {
 				&:before {
-					background-color: _palette(accent1);
+					background-color: #2C3F59;
 				}
 			}
 
 			&:nth-child(6n - 4) {
 				&:before {
-					background-color: _palette(accent2);
+					background-color: #27434F;
 				}
 			}
 
 			&:nth-child(6n - 3) {
 				&:before {
-					background-color: _palette(accent3);
+					background-color: #242943;
 				}
 			}
 
 			&:nth-child(6n - 2) {
 				&:before {
-					background-color: _palette(accent4);
+					background-color: #36274F;
 				}
 			}
 
 			&:nth-child(6n - 1) {
 				&:before {
-					background-color: _palette(accent5);
+					background-color: #302C59;
 				}
 			}
 
 			&:nth-child(6n) {
 				&:before {
-					background-color: _palette(accent6);
+					background-color: #2C3F59;
 				}
 			}
 		}

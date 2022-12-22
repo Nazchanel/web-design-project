@@ -2,7 +2,7 @@
 layout: post
 title: Purchase
 description: Reserve A Car
-image: null
+image: /assets/images/grocery-cart.png
 nav-menu: true
 ---
 
@@ -10,41 +10,54 @@ nav-menu: true
 	.comment {
 		resize: none;
 		height: 200px;
-		width: 450px;
+		width: 500px;
+	}
+	.comment1 {
+		height: 50px;
+		width: 500px;
 	}
 </style>
 
 <form action="https://submit-form.com/kPfVw0BD" method="POST">
 	<label for="name">Car Model</label><div class="field half first">
-		<input type="radio" id="2012 Chevrolet Cruze" name="car-selection" value="2012 Chevrolet Cruze" required>
-		<label for="2012 Chevrolet Cruze">2012 Chevrolet Cruze ($17,500)</label>
+		<input type="checkbox" id="2012 Chevrolet Cruze" name="car-selection" value="2012 Chevrolet Cruze" required>
+		<label for="2012 Chevrolet Cruze">2012 Chevrolet Cruze ($21,500)</label>
 		<br>
-		<input type="radio" id="2014 Nissan Altima" name="car-selection" value="2014 Nissan Altima" required>
-		<label for="2014 Nissan Altima">2014 Nissan Altima ($13,216)</label>
 		<br>
-		<input type="radio" id="2010 Ford Fusion" name="car-selection" value="2010 Ford Fusion" required>
-		<label for="2010 Ford Fusion">2010 Ford Fusion ($26,252)</label>
+		<input type="checkbox" id="2014 Nissan Altima" name="car-selection" value="2014 Nissan Altima" required>
+		<label for="2014 Nissan Altima">2014 Nissan Altima ($18,216)</label>
 		<br>
-		<input type="radio" id="2018 Subaru Outback" name="car-selection" value="2018 Subaru Outback" required>
-		<label for="2018 Subaru Outback">2018 Subaru Outback ($29,920)</label>
 		<br>
-		<input type="radio" id="2020 Kia Optima" name="car-selection" value="2020 Kia Optima" required>
-		<label for="2020 Kia Optima">2020 Kia Optima ($21,390)</label>
+		<input type="checkbox" id="2010 Ford Fusion" name="car-selection" value="2010 Ford Fusion" required>
+		<label for="2010 Ford Fusion">2010 Ford Fusion ($34,252)</label>
 		<br>
-		<input type="radio" id="2021 Hyndai Sonata" name="car-selection" value="2021 Hyndai Sonata" required>
-		<label for="2021 Hyndai Sonata">2021 Hyndai Sonata ($24,595)</label>
 		<br>
-		<input type="radio" id="2002 Honda Civic" name="car-selection" value="2002 Honda Civic" required>
-		<label for="2002 Honda Civic">2002 Honda Civic ($6,500)</label>
+		<input type="checkbox" id="2018 Subaru Outback" name="car-selection" value="2018 Subaru Outback" required>
+		<label for="2018 Subaru Outback">2018 Subaru Outback ($35,560)</label>
 		<br>
-		<input type="radio" id="2006 Toyota Camry" name="car-selection" value="2006 Toyota Camry" required>
-		<label for="2006 Toyota Camry">2006 Toyota Camry ($5,895)</label>
 		<br>
-		<input type="radio" id="2019 Audi Q5" name="car-selection" value="2019 Audi Q5" required>
+		<input type="checkbox" id="2020 Kia Optima" name="car-selection" value="2020 Kia Optima" required>
+		<label for="2020 Kia Optima">2020 Kia Optima ($44,390)</label>
+		<br>
+		<br>
+		<input type="checkbox" id="2021 Hyndai Sonata" name="car-selection" value="2021 Hyndai Sonata" required>
+		<label for="2021 Hyndai Sonata">2021 Hyndai Sonata ($42,595)</label>
+		<br>
+		<br>
+		<input type="checkbox" id="2002 Honda Civic" name="car-selection" value="2002 Honda Civic" required>
+		<label for="2002 Honda Civic">2002 Honda Civic ($10,500)</label>
+		<br>
+		<br>
+		<input type="checkbox" id="2006 Toyota Camry" name="car-selection" value="2006 Toyota Camry" required>
+		<label for="2006 Toyota Camry">2006 Toyota Camry ($18,895)</label>
+		<br>
+		<br>
+		<input type="checkbox" id="2019 Audi Q5" name="car-selection" value="2019 Audi Q5" required>
 		<label for="2019 Audi Q5">2019 Audi Q5 ($29,850)</label>
 		<br>
-		<input type="radio" id="2018 Mazda 3" name="car-selection" value="2018 Mazda 3" required>
-		<label for="2018 Mazda 3">2018 Mazda 3 ($18,560)</label>
+		<br>
+		<input type="checkbox" id="2018 Mazda 3" name="car-selection" value="2018 Mazda 3" required>
+		<label for="2018 Mazda 3">2018 Mazda 3 ($34,850)</label>
 	</div>
 
 <div class="field half first">
@@ -56,12 +69,18 @@ nav-menu: true
 <input type="email" name="email" id="email" required/>
 <br>
 <label for="phone">Phone Number</label>
-<input type="tel" name="phone" maxlength="14" minlength="7" placeholder="(123) 456-7890" required>
+<input type="tel" name="phone" maxlength="14" minlength="7" placeholder="(123) 456-7890" required class="comment1">
+<br>
+<label for="appointment-time">Choose Appointment Time:</label>
 
-</div>
-
-<div class="field">
-	<label for="message">Extra Comments</label>
+<select name="appointment-time" id="appointment-time" class="comment1">
+  <option value="12-1">12PM to 1PM</option>
+  <option value="2-3">2PM to 3PM</option>
+  <option value="3-4">3PM to 4PM</option>
+  <option value="4-5">4PM to 5PM</option>
+</select>
+<br>
+	<label for="message">Comments</label>
 
 <textarea
 id="message"
@@ -76,7 +95,7 @@ class = comment
 
 <ul class="actions">
 	<li>
-		<input type="submit" value="Send Request" class="special" />
+		<input type="submit" value="Reserve" class="special" />
 	</li>
 	<li>
 		<input type="reset" value="Clear" />

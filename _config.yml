@@ -1,13 +1,13 @@
 # site settings
 title: Horizon Autos
-subtitle: Where the horizon is just the beginning
+subtitle: Horizon is just the beginning
 email: sales@horizonautos.com
 description: A innovative business<br />that sells state of the art<br />second-hand cars in the Dallas<br /> Fort Worth area.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Eshan Iyer, Siri Mandava
-street_address: 1234 Preston Road
-city: Frisco
+street_address: 1234 North Fielder Road
+city: Arlington
 state: TX
 zip_code: 75034
 country: United States of America
